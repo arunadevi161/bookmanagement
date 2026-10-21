@@ -1,0 +1,46 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #f0f4f8;
+margin: 0;
+padding: 20px;
+}
+
+.container {
+max-width: 600px;
+margin: 30px auto;
+text-align: center;
+background-color: white;
+padding: 25px;
+border-radius: 10px;
+box-shadow: 0 4px 10px #ccc;
+}
+
+h1 {
+color: darkblue;
+}
+
+h2 {
+color: green;
+}
+
+.book-card {
+background-color: #e8f0fe;
+margin: 15px 0;
+padding: 15px;
+border-radius: 8px;
+text-align: left;
+}
+
+button {
+background-color: darkblue;
+color: white;
+padding: 10px 15px;
+margin: 8px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+
+button:hover {
+background-color: navy;
+}
